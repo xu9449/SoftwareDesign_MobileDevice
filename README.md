@@ -44,4 +44,25 @@ if (!taskDescription.isEmpty()) {
 finish()
 ```  
 Registering Broadcast Receivers  
----
+---  
+```
+companion object {
+  private const val LOG_TAG = "MainActivityLog"
+
+  private fun getCurrentTimeStamp(): String {
+    val simpleDateFormat = SimpleDateFormat("yyyy-MM-dd HH:mm", Locale.US)
+    val now = Date()
+    return simpleDateFormat.format(now)
+  }
+}
+  
+  private fun makeBroadcastReceiver(): BroadcastReceiver {
+  return object : BroadcastReceiver() {
+    override fun onReceive(context: Context, intent: Intent?) {
+      if (intent?.action == Intent.ACTION_TIME_TICK) {
+        dateTimeTextView.text = getCurrentTimeStamp()
+      }
+    }
+  }
+}
+```
