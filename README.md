@@ -23,3 +23,24 @@ eager evaluation .
 companion object  == static   
 call back method  
 activity lifecycle  
+Stopping an Activity  
+---
+```  
+// 1
+val taskDescription = descriptionText.text.toString()
+
+if (!taskDescription.isEmpty()) {
+  // 2
+  val result = Intent()
+  result.putExtra(EXTRA_TASK_DESCRIPTION, taskDescription)
+  setResult(Activity.RESULT_OK, result)
+} else {
+  // 3
+  setResult(Activity.RESULT_CANCELED)
+}
+
+// 4
+finish()
+```  
+Registering Broadcast Receivers  
+---
