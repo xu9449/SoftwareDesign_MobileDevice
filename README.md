@@ -19,4 +19,7 @@ create a pair
 algebraic data type . 
 opem modifier . 
 sealed  
-eager evaluation . 
+eager evaluation .  
+companion object  == static   
+call back method  
+activity lifecycle  
