@@ -22,7 +22,8 @@ sealed
 eager evaluation .  
 companion object  == static   
 call back method  
-activity lifecycle  
+activity lifecycle    
+
 Stopping an Activity  
 ---
 ```  
