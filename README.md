@@ -1,8 +1,9 @@
 # SoftwareDesign_MobileDevice . 
   
 Read Java Vs. Kotlin  
-
-  
+---  
+[Link]( https://github.com/MindorksOpenSource/from-java-to-kotlin)
+![img](https://github.com/xu9449/SoftwareDesign_MobileDevice/blob/master/img/from_java_to_kotlin.png)  
   
   
 Kotlin . 
