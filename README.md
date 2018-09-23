@@ -1,4 +1,10 @@
 # SoftwareDesign_MobileDevice . 
+  
+Read Java Vs. Kotlin  
+
+  
+  
+  
 Kotlin . 
 Itroduction of Kotlin   (google) . 
 data class   
