@@ -10,6 +10,10 @@ Read Java Vs. Kotlin
 Complete Kotlin Koans   
 ---
 [link](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)  
+Lambdas : annomenous function  
+Higer - Order Functions - Kotlin are first - class  
+supports passing functions as arfuments to other functions, returning them as the value from other function  
+(什么是 pass by value， pass by function， pass by argument）  
 
 Kotlin . 
 Itroduction of Kotlin   (google) . 
