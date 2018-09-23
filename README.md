@@ -9,6 +9,7 @@ Read Java Vs. Kotlin
   
 Complete Kotlin Koans   
 ---
+[link](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)  
 
 Kotlin . 
 Itroduction of Kotlin   (google) . 
