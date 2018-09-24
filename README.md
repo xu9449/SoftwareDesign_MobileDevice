@@ -120,6 +120,11 @@ provide benefit of checking for just whitespace
 ### Avoiding single abstract method for classes  
 SAM(Single abstract method)  
 ### Coroutines instead of asynctask  
-
+  
+Code along with ListView Tutorial  
+---
+[link](https://www.raywenderlich.com/155-android-listview-tutorial-with-kotlin)  
+What exacgtly is an adapter  
+private lateinit var listView ListView (缺少冒号）  
 
   
