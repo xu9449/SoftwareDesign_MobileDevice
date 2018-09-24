@@ -130,8 +130,10 @@ private lateinit var listView ListView (缺少冒号）
  Read ListView vs RecyclerView  
  ---
    [link](https://www.thedroidsonroids.com/blog/what-is-the-difference-between-listview-recyclerview)
-   ViewHolder
-     LayoutManager
+   1. ViewHolder
+    2. LayoutManager
       3.ItemDecoration
-                        therecylerviewlisthasnodividersvetweenrowasbydefaultandit'sconsistentwithethematerialdesignguidelines
+                        therecylerviewlisthasnodividersvetweenrowasbydefaultandit'sconsistentwithethematerialdesignguidelines 
+  4. IteAnimator 
+  
       
