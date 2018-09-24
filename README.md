@@ -86,7 +86,40 @@ companion object {
 ```
 Review and bookmark this Kotlin cheatsheet  
 ---   
-lElvis operator  : val length2: Int? = name?.length
+lElvis operator  : val length2: Int? = name?.length  
 If: val more = if (x > y) x else y;   
 Sets ignore duplicate items  
 [lambda](https://juejin.im/entry/58a382da61ff4b0058ab4542)
+  
+Read Kotlin Tips  
+---
+[link](https://savvyapps.com/blog/kotlin-tips-android-development)  
+### Lazy Loading  
+1) faster startup time  
+2) memory efficient  
+3)encapsulate initialization  
+### Custom Getters/Setters  
+simply access other modifier  
+### Lambdas  
+reduce the overall lines of code  
+allow functional programming 
+### Data Classes  
+### Collection Filtering  
+### Object Expressions  
+### Companion Object  
+### Global Constants  
+constants should be kept to as small a scope as possible to reduce complexity  
+### Optional Parameters  
+### Extensions  
+### Lateinit  
+### Safe Typecasting  
+### Leveraging Let    
+let automatically assign user to an unnullable variable  
+### Isnullorempty | Isnullorblank  
+provide benefit of checking for just whitespace  
+### Avoiding single abstract method for classes  
+SAM(Single abstract method)  
+### Coroutines instead of asynctask  
+
+
+  
