@@ -85,4 +85,8 @@ companion object {
 }
 ```
 Review and bookmark this Kotlin cheatsheet  
---- 
+---   
+lElvis operator  : val length2: Int? = name?.length
+If: val more = if (x > y) x else y;   
+Sets ignore duplicate items  
+[lambda](https://juejin.im/entry/58a382da61ff4b0058ab4542)
