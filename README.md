@@ -127,4 +127,11 @@ Code along with ListView Tutorial
 What exacgtly is an adapter  
 private lateinit var listView ListView (缺少冒号）  
 
-  
+ Read ListView vs RecyclerView  
+ ---
+   [link](https://www.thedroidsonroids.com/blog/what-is-the-difference-between-listview-recyclerview)
+   ViewHolder
+     LayoutManager
+      3.ItemDecoration
+                        therecylerviewlisthasnodividersvetweenrowasbydefaultandit'sconsistentwithethematerialdesignguidelines
+      
