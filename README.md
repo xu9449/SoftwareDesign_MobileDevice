@@ -136,4 +136,6 @@ private lateinit var listView ListView (缺少冒号）
                         therecylerviewlisthasnodividersvetweenrowasbydefaultandit'sconsistentwithethematerialdesignguidelines 
   4. IteAnimator 
   
-      
+   Code along with Design Tutorial  
+   ---
+   
