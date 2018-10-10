@@ -139,3 +139,5 @@ private lateinit var listView ListView (缺少冒号）
    Code along with Design Tutorial  
    ---
    
+Recycle List View  
+---
