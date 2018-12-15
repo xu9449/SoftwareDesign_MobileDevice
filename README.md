@@ -6,7 +6,7 @@ Read Java Vs. Kotlin
 
 ![img](https://github.com/xu9449/SoftwareDesign_MobileDevice/blob/master/img/from_java_to_kotlin.png)    
   
-[Link]( https://github.com/MindorksOpenSource/from-java-to-kotlin)
+[Java Vs Kotlin]( https://github.com/MindorksOpenSource/from-java-to-kotlin)
   
 Complete Kotlin Koans   
 ---
