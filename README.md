@@ -140,4 +140,35 @@ private lateinit var listView ListView (缺少冒号）
    ---
    
 Recycle List View  
----
+---  
+  
+    
+# iOS_Application_Design . 
+[An illustrated history of iOS](https://www.git-tower.com/blog/history-of-ios) .   
+2007: iPhone OS1, First iPhone 
+2008: iPhone OS2, SDK, AppStore
+2009: iOS3, iPad, copy/paste, Spotlight, voice control, Skeuomorphism . 
+2010: iOS4, multitaking,folders, wallpapers, Mail, FaceTime, Retina . 
+2011: iOS5, iCloud, iMessage, Notification Center, Twitter, Siri  
+2012: iOS6, YouTube and Google Maps no longer perinstalled, Shared Photo Streams, Facebook, Passbook
+2013: iOS7, (the world is not flat anymore) design change, Jony Ive, Touch ID, Control Center , AirDrop . 
+2014: iOS8, Continuity(read and write iMessages), Notification Center Widgets, HealthKit, HomeKit. 
+2015: iOS9, Proctivity(predict its users' needs. Maps, performance & stability improvements  
+2016: iOS10, iMessage Stickers, App Store, Home, Notifications . 
+2017: iOS11, App Store, customizable Control Center, Quick Type keyboard, Photos, Files app and Dock . 
+2018: iOS12, Performance, long-standing limitation of Facetime, new Screen Time
+  
+[Introduction： Swift for Complete Beginners](https://www.hackingwithswift.com/read/0/overview)  
+\()  
+type(of: songs)  
+what is type safety  : like only store strings in the list    
+var songs: [String] = [ , , , ]  
+var songs: [String]  
+songs[0] = " "  
+  
+  for _ in 1 ... 5 {
+    str += " fake"
+}
+  Section 2.
+  [Intro to StroyBoards](https://www.raywenderlich.com/464-storyboards-tutorial-for-ios-part-1)   
+  Segue 继续
