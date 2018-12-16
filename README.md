@@ -159,7 +159,8 @@ What exacgtly is an adapter
 private lateinit var listView ListView (缺少冒号）  
 
  Read ListView vs RecyclerView  
- ---
+ ---  
+ 
    [link](https://www.thedroidsonroids.com/blog/what-is-the-difference-between-listview-recyclerview)
    1. ViewHolder
     2. LayoutManager
@@ -174,7 +175,8 @@ Recycle List View
 ---  
   
     
-# iOS_Application_Design . 
+# iOS_Application_Design   
+
 [An illustrated history of iOS](https://www.git-tower.com/blog/history-of-ios) .   
 2007: iPhone OS1, First iPhone 
 2008: iPhone OS2, SDK, AppStore
