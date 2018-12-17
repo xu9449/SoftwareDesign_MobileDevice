@@ -1,6 +1,6 @@
 # SoftwareDesign_MobileDevice . 
 
-**Class01**   
+**01**   
   
 Read Java Vs. Kotlin  
 ---  
@@ -19,13 +19,12 @@ supports passing functions as arguments to other functions, returning them as th
 First class :方便了函数的复用
 [什么是 pass by value， pass by function， pass by argument](https://github.com/xu9449/SoftwareDesign_MobileDevice/wiki/%E4%BB%80%E4%B9%88%E6%98%AFpass-by-value%EF%BC%8C-pass-by-reference%EF%BC%8C-pass-by-argument)  
 
-**Class02**  
-[Your First Kotlin Android App]](https://www.raywenderlich.com/4738-your-first-kotlin-android-app)  
 
-Kotlin . 
+**02**   
+
 Itroduction of Kotlin   (google) . 
 data class   
-new tyoe money  (Val)read only . 
+(Val)read only . 
 top entry point of Kotlin   
 In kotlin , you can put everthing in top level   
 .copy()  the same value as before if you don't input anything 
@@ -88,9 +87,35 @@ companion object {
     }
   }
 }
-```
-Review and bookmark this Kotlin cheatsheet  
----   
+```   
+  Review and bookmark this Kotlin cheatsheet . 
+  
+
+[Intro to Android Activities in Kotlin](https://www.raywenderlich.com/500-introduction-to-android-activities-with-kotlin)   
+[Device Compatibility overview   ](https://developer.android.com/guide/practices/compatibility) . 
+APK provides an optimized user experience on a variety of devices . 
+Yet, a device is "Android compatible" only if it can correctly run apps written for the Android execution environment.    Each device must pass the Compatibility Test Suite (CTS) in order to be considered compatible
+   
+Each platform version specifies an API level.  
+The minSdkVersion attribute declares the minimum version with which your app is compatible and the targetSdkVersion attribute declares the highest version on which you've optimized your app.  
+  
+Intent : messaging object you can use to request an action fro another app component.  
+Building an intent:    
+ComponentName    
+Action  
+Data  
+ The type of data supplied is generally dictated by the intent's action.
+Category  
+Extras  
+Flags
+  
+**03**  
+[Kotlin tips]（https://savvyapps.com/blog/kotlin-tips-android-development）  
+Lazy Loading  
+
+ 
+---     
+
 lElvis operator  : val length2: Int? = name?.length  
 If: val more = if (x > y) x else y;   
 Sets ignore duplicate items  
@@ -117,7 +142,8 @@ constants should be kept to as small a scope as possible to reduce complexity
 ### Optional Parameters  
 ### Extensions  
 ### Lateinit  
-### Safe Typecasting  
+### Safe Typecasting    
+
 ### Leveraging Let    
 let automatically assign user to an unnullable variable  
 ### Isnullorempty | Isnullorblank  
@@ -133,7 +159,8 @@ What exacgtly is an adapter
 private lateinit var listView ListView (缺少冒号）  
 
  Read ListView vs RecyclerView  
- ---
+ ---  
+ 
    [link](https://www.thedroidsonroids.com/blog/what-is-the-difference-between-listview-recyclerview)
    1. ViewHolder
     2. LayoutManager
@@ -148,14 +175,15 @@ Recycle List View
 ---  
   
     
-# iOS_Application_Design . 
+# iOS_Application_Design   
+
 [An illustrated history of iOS](https://www.git-tower.com/blog/history-of-ios) .   
-2007: iPhone OS1, First iPhone 
-2008: iPhone OS2, SDK, AppStore
-2009: iOS3, iPad, copy/paste, Spotlight, voice control, Skeuomorphism . 
-2010: iOS4, multitaking,folders, wallpapers, Mail, FaceTime, Retina . 
+2007: iPhone OS1, First iPhone   
+2008: iPhone OS2, SDK, AppStore    
+2009: iOS3, iPad, copy/paste, Spotlight, voice control, Skeuomorphism .   
+2010: iOS4, multitaking,folders, wallpapers, Mail, FaceTime, Retina .   
 2011: iOS5, iCloud, iMessage, Notification Center, Twitter, Siri  
-2012: iOS6, YouTube and Google Maps no longer perinstalled, Shared Photo Streams, Facebook, Passbook
+2012: iOS6, YouTube and Google Maps no longer preinstalled, Shared Photo Streams, Facebook, Passbook
 2013: iOS7, (the world is not flat anymore) design change, Jony Ive, Touch ID, Control Center , AirDrop . 
 2014: iOS8, Continuity(read and write iMessages), Notification Center Widgets, HealthKit, HomeKit. 
 2015: iOS9, Proctivity(predict its users' needs. Maps, performance & stability improvements  
