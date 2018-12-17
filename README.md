@@ -1,7 +1,13 @@
 # SoftwareDesign_MobileDevice . 
 
 **01**   
-  
+
+App store has 2+ million apps and 85 billion+ download 
+Android has 2.2+ million apps
+2 billion people use smartphone worldwide on 2016, now we have 5 billion people in 2017 Q2, two third of people connected through mobile phone.(we have 7.7 billion people now)  
+Android has open sourse develop platform  
+
+
 Read Java Vs. Kotlin  
 ---  
 
