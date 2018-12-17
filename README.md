@@ -210,4 +210,8 @@ songs[0] = " "
 }
   Section 2.
   [Intro to StroyBoards](https://www.raywenderlich.com/464-storyboards-tutorial-for-ios-part-1)   
-  Segue 继续
+  Segue 继续  
+    
+  **Optional Channing**  
+As an Alternative to Forced Unwrapping  
+
